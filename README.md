@@ -9,7 +9,7 @@
 
 ### 🎓 About Me
 
-I'm a recent graduate of the ALX Software Engineering Program, with a passion for building innovative solutions in fintech, e-commerce, event management, and hospitality sectors. I thrive on challenges and embrace learning new technologies to solve real-world business problems. My journey demonstrates my ability to quickly adapt and master new technologies while delivering functional solutions.
+I'm a recent graduate of the ALX Software Engineering Program. I have a passion for building innovative solutions in fintech, e-commerce, event management, and hospitality sectors. I thrive on challenges and embrace learning new technologies to solve real-world business problems. My journey demonstrates my ability to adapt and master new technologies quickly while delivering functional solutions.
 
 - 🔭 I'm currently seeking opportunities as a **Full-Stack Developer**
 - 🌱 I'm passionate about learning new technologies through hands-on project development
@@ -26,6 +26,7 @@ I'm a recent graduate of the ALX Software Engineering Program, with a passion fo
   <img src="https://img.shields.io/badge/PHP-FFD700?style=for-the-badge&logo=php&logoColor=black" alt="PHP"/>
   <img src="https://img.shields.io/badge/PostgreSQL-FFD700?style=for-the-badge&logo=postgresql&logoColor=black" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/Prisma-000000?style=for-the-badge&logo=prisma&logoColor=FFD700" alt="Prisma"/>
+  <img src="https://img.shields.io/badge/Python-FFD700?style=for-the-badge&logo=python&logoColor=black" alt="Python"/>
 </p>
 
 ### 🚀 Featured Projects
